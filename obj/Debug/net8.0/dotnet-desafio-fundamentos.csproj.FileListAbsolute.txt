@@ -1,0 +1,15 @@
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\bin\Debug\net8.0\dotnet-desafio-fundamentos.exe
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\bin\Debug\net8.0\dotnet-desafio-fundamentos.deps.json
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\bin\Debug\net8.0\dotnet-desafio-fundamentos.runtimeconfig.json
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\bin\Debug\net8.0\dotnet-desafio-fundamentos.dll
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\bin\Debug\net8.0\dotnet-desafio-fundamentos.pdb
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.AssemblyInfoInputs.cache
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.AssemblyInfo.cs
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.sourcelink.json
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.dll
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\refint\dotnet-desafio-fundamentos.dll
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.pdb
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\dotnet-desafio-fundamentos.genruntimeconfig.cache
+C:\Users\adriel.vale\Documents\Code\dotnet-desafio-fundamentos\obj\Debug\net8.0\ref\dotnet-desafio-fundamentos.dll
